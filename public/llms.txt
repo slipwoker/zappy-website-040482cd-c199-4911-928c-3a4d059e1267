@@ -1,0 +1,78 @@
+# א.מ פסולת מתכות בע"מ — Generative Engine Optimization Map
+
+> A.M Metal Waste Ltd. is a metal scrap and recycling company. The business operates in the industrial metal recycling sector, dealing with collection, processing, or trading of scrap metals.
+
+---
+
+## Pages
+
+### בית
+https://-040482cd.zappy5.app
+א.מ פסולת מתכות בע&quot;מ היא החברה המובילה לאיסוף ומחזור גרוטאות מתכת בישראל. קבלו מחירים תחרותיים על כל סוגי המתכות ושירות מקצועי ומהיר. צרו קשר עוד היום!
+
+### שירותים
+https://-040482cd.zappy5.app/services
+גלו את מגוון שירותי איסוף, עיבוד וסחר בגרוטאות המתכת שלנו. אנו מציעים מחירי שוק עדכניים, איסוף מהיר מהשטח ופתרונות מותאמים לעסקים ופרטיים. בדקו מה מגיע לכם!
+
+### אודות
+https://-040482cd.zappy5.app/about
+א.מ פסולת מתכות בע&quot;מ פועלת בתחום מחזור המתכות התעשייתי עם ניסיון, מקצועיות ומחויבות לסביבה. הכירו את הצוות שהפך גרוטאות למשאב בעל ערך אמיתי עבור לקוחותינו.
+
+### צור קשר
+https://-040482cd.zappy5.app/contact
+רוצים לדעת מהם מחירי הגרוטאות הנוכחיים באזורכם? צרו קשר עם א.מ פסולת מתכות בע&quot;מ עכשיו וקבלו הצעת מחיר מיידית, ייעוץ חינם ושירות איסוף מהיר עד אליכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-040482cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-040482cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-040482cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-040482cd.zappy5.app/contact
+- Endpoint: https://-040482cd.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.מ פסולת מתכות בע"מ
+A.M Metal Waste Ltd. is a metal scrap and recycling company. The business operates in the industrial metal recycling sector, dealing with collection, processing, or trading of scrap metals.
+
+## Target Audience
+- יצרנים תעשייתיים
+- חברות בנייה
+- מעבדי מתכות
+
+## Industry
+Metal Recycling & Scrap
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-040482cd.zappy5.app/sitemap.xml
+- Robots: https://-040482cd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-040482cd.zappy5.app/llms-full.txt
